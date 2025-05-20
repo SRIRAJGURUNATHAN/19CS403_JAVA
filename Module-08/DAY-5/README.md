@@ -56,7 +56,7 @@ public class ReadConsole {
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/b4768e00-8772-487e-98ff-e0c376840454)
+![image](https://github.com/user-attachments/assets/0918166f-5cec-4f18-9aff-909b5d1ccdb6)
 
 
 ## RESULT:
