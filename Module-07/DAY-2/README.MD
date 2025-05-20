@@ -22,8 +22,8 @@ To Write a Java program to demonstrate control flow of try-catch-finally clause 
  ```
 
 Program to implement a Exception Handling-Finally using Java
-Developed by: Mohamed Roshan S
-RegisterNumber: 212222040101
+Developed by: Melvin S
+RegisterNumber: 212222040098
 
 ```
 
